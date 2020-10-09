@@ -1,7 +1,7 @@
-# MovieAndroid
+# MovieAndroid App
 * MovieApp android application to show movies using API from https://api.themoviedb.org
 * Use Kotlin, Anko, Model-View-ViewModel Pattern, Architecture Components, Dependency Injection
-## App Demo
+## MovieAndroid App Screenshot Demo
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/FirmanMFK/MovieAndroid/master/Screenshot_1602238581.png" height="400" />
