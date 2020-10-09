@@ -9,4 +9,6 @@
   <img src="https://raw.githubusercontent.com/FirmanMFK/MovieAndroid/master/Screenshot_1602238605.png" height="400" />
   <img src="https://raw.githubusercontent.com/FirmanMFK/MovieAndroid/master/Screenshot_1602238618.png" height="400" />
   <img src="https://raw.githubusercontent.com/FirmanMFK/MovieAndroid/master/Screenshot_1602238610.png" height="400" />
+  <img src="https://raw.githubusercontent.com/FirmanMFK/MovieAndroid/master/Screenshot_1602238634.png" height="400" />
+  <img src="https://raw.githubusercontent.com/FirmanMFK/MovieAndroid/master/Screenshot_1602238639.png" height="400" />
 </p>
